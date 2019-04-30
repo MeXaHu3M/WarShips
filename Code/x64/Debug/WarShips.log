@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\эмир\desktop\курсач\warships\main.cpp(165): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\эмир\desktop\курсач\warships\main.cpp(339): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\эмир\desktop\курсач\warships\main.cpp(367): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  WarShips.vcxproj -> C:\Users\Эмир\Desktop\Курсач\WarShips\x64\Debug\WarShips.exe

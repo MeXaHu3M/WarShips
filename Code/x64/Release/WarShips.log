@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\эмир\desktop\курсач\warships\main.cpp(166): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\эмир\desktop\курсач\warships\main.cpp(340): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\эмир\desktop\курсач\warships\main.cpp(368): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  All 75 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  WarShips.vcxproj -> C:\Users\Эмир\Desktop\Курсач\WarShips\x64\Release\WarShips.exe
